@@ -1,2 +1,2 @@
 # File-Cleanup-Utility
-I created this because my Polyend Play would keep files with "._" on the SD card which will make the system break whenever I tried to load samples, this will take your SD card and clear any file that start with "._"
+This script will clear any files on your SD card that start with "._". I created it because my Polyend Play would crash when I tried to load samples with "._" in their names.
